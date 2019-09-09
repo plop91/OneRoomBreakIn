@@ -1,0 +1,366 @@
+fileFormatVersion: 2
+guid: e7d4208cf7e7aa944a6f91091cc936ac
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Vault wall_0
+    21300002: Vault wall_1
+    21300004: Vault wall_2
+    21300006: Vault wall_3
+    21300008: Vault wall_4
+    21300010: Vault wall_5
+    21300012: Vault wall_6
+    21300014: Vault wall_7
+    21300016: Vault wall_8
+    21300018: Vault wall_9
+    21300020: Vault wall_10
+    21300022: Vault wall_11
+    21300024: Vault wall_12
+    21300026: Vault wall_13
+    21300028: Vault wall_14
+    21300030: Vault wall_15
+    21300032: Vault wall_16
+    21300034: Vault wall_17
+    21300036: Vault wall_18
+    21300038: Vault wall_19
+    21300040: Vault wall_20
+    21300042: Vault wall_21
+    21300044: Vault wall_22
+    21300046: Vault wall_23
+    21300048: Vault wall_24
+    21300050: Vault wall_25
+    21300052: Vault wall_26
+    21300054: Vault wall_27
+    21300056: Vault wall_28
+    21300058: Vault wall_29
+    21300060: Vault wall_30
+    21300062: Vault wall_31
+    21300064: Vault wall_32
+    21300066: Vault wall_33
+    21300068: Vault wall_34
+    21300070: Vault wall_35
+    21300072: Vault wall_36
+    21300074: Vault wall_37
+    21300076: Vault wall_38
+    21300078: Vault wall_39
+    21300080: Vault wall_40
+    21300082: Vault wall_41
+    21300084: Vault wall_42
+    21300086: Vault wall_43
+    21300088: Vault wall_44
+    21300090: Vault wall_45
+    21300092: Vault wall_46
+    21300094: Vault wall_47
+    21300096: Vault wall_48
+    21300098: Vault wall_49
+    21300100: Vault wall_50
+    21300102: Vault wall_51
+    21300104: Vault wall_52
+    21300106: Vault wall_53
+    21300108: Vault wall_54
+    21300110: Vault wall_55
+    21300112: Vault wall_56
+    21300114: Vault wall_57
+    21300116: Vault wall_58
+    21300118: Vault wall_59
+    21300120: Vault wall_60
+    21300122: Vault wall_61
+    21300124: Vault wall_62
+    21300126: Vault wall_63
+    21300128: Vault wall_64
+    21300130: Vault wall_65
+    21300132: Vault wall_66
+    21300134: Vault wall_67
+    21300136: Vault wall_68
+    21300138: Vault wall_69
+    21300140: Vault wall_70
+    21300142: Vault wall_71
+    21300144: Vault wall_72
+    21300146: Vault wall_73
+    21300148: Vault wall_74
+    21300150: Vault wall_75
+    21300152: Vault wall_76
+    21300154: Vault wall_77
+    21300156: Vault wall_78
+    21300158: Vault wall_79
+    21300160: Vault wall_80
+    21300162: Vault wall_81
+    21300164: Vault wall_82
+    21300166: Vault wall_83
+    21300168: Vault wall_84
+    21300170: Vault wall_85
+    21300172: Vault wall_86
+    21300174: Vault wall_87
+    21300176: Vault wall_88
+    21300178: Vault wall_89
+    21300180: Vault wall_90
+    21300182: Vault wall_91
+    21300184: Vault wall_92
+    21300186: Vault wall_93
+    21300188: Vault wall_94
+    21300190: Vault wall_95
+    21300192: Vault wall_96
+    21300194: Vault wall_97
+    21300196: Vault wall_98
+    21300198: Vault wall_99
+    21300200: Vault wall_100
+    21300202: Vault wall_101
+    21300204: Vault wall_102
+    21300206: Vault wall_103
+    21300208: Vault wall_104
+    21300210: Vault wall_105
+    21300212: Vault wall_106
+    21300214: Vault wall_107
+    21300216: Vault wall_108
+    21300218: Vault wall_109
+    21300220: Vault wall_110
+    21300222: Vault wall_111
+    21300224: Vault wall_112
+    21300226: Vault wall_113
+    21300228: Vault wall_114
+    21300230: Vault wall_115
+    21300232: Vault wall_116
+    21300234: Vault wall_117
+    21300236: Vault wall_118
+    21300238: Vault wall_119
+    21300240: Vault wall_120
+    21300242: Vault wall_121
+    21300244: Vault wall_122
+    21300246: Vault wall_123
+    21300248: Vault wall_124
+    21300250: Vault wall_125
+    21300252: Vault wall_126
+    21300254: Vault wall_127
+    21300256: Vault wall_128
+    21300258: Vault wall_129
+    21300260: Vault wall_130
+    21300262: Vault wall_131
+    21300264: Vault wall_132
+    21300266: Vault wall_133
+    21300268: Vault wall_134
+    21300270: Vault wall_135
+    21300272: Vault wall_136
+    21300274: Vault wall_137
+    21300276: Vault wall_138
+    21300278: Vault wall_139
+    21300280: Vault wall_140
+    21300282: Vault wall_141
+    21300284: Vault wall_142
+    21300286: Vault wall_143
+    21300288: Vault wall_144
+    21300290: Vault wall_145
+    21300292: Vault wall_146
+    21300294: Vault wall_147
+    21300296: Vault wall_148
+    21300298: Vault wall_149
+    21300300: Vault wall_150
+    21300302: Vault wall_151
+    21300304: Vault wall_152
+    21300306: Vault wall_153
+    21300308: Vault wall_154
+    21300310: Vault wall_155
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Vault wall_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 100
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e4a9620978ac544a93d1172e2359bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vault wall_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 100
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3144a2e9757746c40ba4f0fb553098de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vault wall_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 100
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b465e4d1852d54cb22855b9a527822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vault wall_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 100
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ca83809fa3d684182233cc130353e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vault wall_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e17efe73f170d4896b713cb14ccb6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8d07fc430c6c4f94981299433d56e875
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

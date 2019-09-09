@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8838741978581311812
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8838741978581311810}
+  - component: {fileID: 8838741978581311813}
+  - component: {fileID: 8838741978581311811}
+  - component: {fileID: 8838741978581311808}
+  - component: {fileID: 921774756}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &8838741978581311810
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8838741978581311812}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 13.288721, y: 16.956938, z: -0.265625}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8838741978581311813
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8838741978581311812}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44f241875efb441429d6e959219266a6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nameText: {fileID: 0}
+  dialogueText: {fileID: 0}
+  optionText1: {fileID: 0}
+  buttonGO1: {fileID: 0}
+  optionText2: {fileID: 0}
+  buttonGO2: {fileID: 0}
+  optionText3: {fileID: 0}
+  buttonGO3: {fileID: 0}
+  animator: {fileID: 0}
+--- !u!114 &8838741978581311811
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8838741978581311812}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a3caf7ede71b9042ba772fa4e6a6fb5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  space: 20
+  items: []
+  isOpen: 0
+  inventoryPanel: {fileID: 0}
+  image: {fileID: 0}
+--- !u!114 &8838741978581311808
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8838741978581311812}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 247fb9152aba1a24287580f01259cc5e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  conditions: []
+--- !u!114 &921774756
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8838741978581311812}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2c6f42f9e6e1754ea9aae60b9705769, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mute: 0
+  sounds:
+  - name: MainLoop
+    loop: 1
+    clip: {fileID: 8300000, guid: 25c522f38b181b94ca45a207a1441434, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: Cops
+    loop: 1
+    clip: {fileID: 8300000, guid: 992d6a5f667c0994abd88823fcd95aec, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: Hotel
+    loop: 1
+    clip: {fileID: 8300000, guid: bb7de810a21253642828d29ff694f259, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: Science
+    loop: 1
+    clip: {fileID: 8300000, guid: 2f11ed81b5f4225468cce8963f2cee42, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: Tech
+    loop: 1
+    clip: {fileID: 8300000, guid: bf797cd3a1a71cf47b7785e078182c07, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: Industrial
+    loop: 1
+    clip: {fileID: 8300000, guid: 2d32b70261df5554b92d47081310c369, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - name: Victory
+    loop: 1
+    clip: {fileID: 8300000, guid: 9613461150bd9c34f8491a9be47aba62, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}

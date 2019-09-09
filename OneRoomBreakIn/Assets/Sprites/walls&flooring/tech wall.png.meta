@@ -1,0 +1,366 @@
+fileFormatVersion: 2
+guid: d2b9ed2c731e26a4396bc4e43d2cd8e3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tech wall_0
+    21300002: tech wall_1
+    21300004: tech wall_2
+    21300006: tech wall_3
+    21300008: tech wall_4
+    21300010: tech wall_5
+    21300012: tech wall_6
+    21300014: tech wall_7
+    21300016: tech wall_8
+    21300018: tech wall_9
+    21300020: tech wall_10
+    21300022: tech wall_11
+    21300024: tech wall_12
+    21300026: tech wall_13
+    21300028: tech wall_14
+    21300030: tech wall_15
+    21300032: tech wall_16
+    21300034: tech wall_17
+    21300036: tech wall_18
+    21300038: tech wall_19
+    21300040: tech wall_20
+    21300042: tech wall_21
+    21300044: tech wall_22
+    21300046: tech wall_23
+    21300048: tech wall_24
+    21300050: tech wall_25
+    21300052: tech wall_26
+    21300054: tech wall_27
+    21300056: tech wall_28
+    21300058: tech wall_29
+    21300060: tech wall_30
+    21300062: tech wall_31
+    21300064: tech wall_32
+    21300066: tech wall_33
+    21300068: tech wall_34
+    21300070: tech wall_35
+    21300072: tech wall_36
+    21300074: tech wall_37
+    21300076: tech wall_38
+    21300078: tech wall_39
+    21300080: tech wall_40
+    21300082: tech wall_41
+    21300084: tech wall_42
+    21300086: tech wall_43
+    21300088: tech wall_44
+    21300090: tech wall_45
+    21300092: tech wall_46
+    21300094: tech wall_47
+    21300096: tech wall_48
+    21300098: tech wall_49
+    21300100: tech wall_50
+    21300102: tech wall_51
+    21300104: tech wall_52
+    21300106: tech wall_53
+    21300108: tech wall_54
+    21300110: tech wall_55
+    21300112: tech wall_56
+    21300114: tech wall_57
+    21300116: tech wall_58
+    21300118: tech wall_59
+    21300120: tech wall_60
+    21300122: tech wall_61
+    21300124: tech wall_62
+    21300126: tech wall_63
+    21300128: tech wall_64
+    21300130: tech wall_65
+    21300132: tech wall_66
+    21300134: tech wall_67
+    21300136: tech wall_68
+    21300138: tech wall_69
+    21300140: tech wall_70
+    21300142: tech wall_71
+    21300144: tech wall_72
+    21300146: tech wall_73
+    21300148: tech wall_74
+    21300150: tech wall_75
+    21300152: tech wall_76
+    21300154: tech wall_77
+    21300156: tech wall_78
+    21300158: tech wall_79
+    21300160: tech wall_80
+    21300162: tech wall_81
+    21300164: tech wall_82
+    21300166: tech wall_83
+    21300168: tech wall_84
+    21300170: tech wall_85
+    21300172: tech wall_86
+    21300174: tech wall_87
+    21300176: tech wall_88
+    21300178: tech wall_89
+    21300180: tech wall_90
+    21300182: tech wall_91
+    21300184: tech wall_92
+    21300186: tech wall_93
+    21300188: tech wall_94
+    21300190: tech wall_95
+    21300192: tech wall_96
+    21300194: tech wall_97
+    21300196: tech wall_98
+    21300198: tech wall_99
+    21300200: tech wall_100
+    21300202: tech wall_101
+    21300204: tech wall_102
+    21300206: tech wall_103
+    21300208: tech wall_104
+    21300210: tech wall_105
+    21300212: tech wall_106
+    21300214: tech wall_107
+    21300216: tech wall_108
+    21300218: tech wall_109
+    21300220: tech wall_110
+    21300222: tech wall_111
+    21300224: tech wall_112
+    21300226: tech wall_113
+    21300228: tech wall_114
+    21300230: tech wall_115
+    21300232: tech wall_116
+    21300234: tech wall_117
+    21300236: tech wall_118
+    21300238: tech wall_119
+    21300240: tech wall_120
+    21300242: tech wall_121
+    21300244: tech wall_122
+    21300246: tech wall_123
+    21300248: tech wall_124
+    21300250: tech wall_125
+    21300252: tech wall_126
+    21300254: tech wall_127
+    21300256: tech wall_128
+    21300258: tech wall_129
+    21300260: tech wall_130
+    21300262: tech wall_131
+    21300264: tech wall_132
+    21300266: tech wall_133
+    21300268: tech wall_134
+    21300270: tech wall_135
+    21300272: tech wall_136
+    21300274: tech wall_137
+    21300276: tech wall_138
+    21300278: tech wall_139
+    21300280: tech wall_140
+    21300282: tech wall_141
+    21300284: tech wall_142
+    21300286: tech wall_143
+    21300288: tech wall_144
+    21300290: tech wall_145
+    21300292: tech wall_146
+    21300294: tech wall_147
+    21300296: tech wall_148
+    21300298: tech wall_149
+    21300300: tech wall_150
+    21300302: tech wall_151
+    21300304: tech wall_152
+    21300306: tech wall_153
+    21300308: tech wall_154
+    21300310: tech wall_155
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tech wall_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 451.2
+        width: 97
+        height: 112.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6713db159628594fb17016c90f7b6ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tech wall_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 339.2
+        width: 97
+        height: 112.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc56d55ee477f8c4297036786a9fb035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tech wall_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 227.2
+        width: 97
+        height: 112.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7081f897607b1843b23a6f761360f99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tech wall_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 115.2
+        width: 97
+        height: 112.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da08a3df6586b54fbd0ece124aea631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tech wall_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.199997
+        width: 97
+        height: 112.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd8410e8a9f1d447873a248c2a99a20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 952f8ba7d868d1b47b18dd7f052684c4
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

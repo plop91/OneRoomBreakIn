@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 9dc7d060e3c92c848bb4eaec4937e971
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hardware floor_0
+    21300002: hardware floor_1
+    21300004: hardware floor_2
+    21300006: hardware floor_3
+    21300008: hardware floor_4
+    21300010: hardware floor_5
+    21300012: hardware floor_6
+    21300014: hardware floor_7
+    21300016: hardware floor_8
+    21300018: hardware floor_9
+    21300020: hardware floor_10
+    21300022: hardware floor_11
+    21300024: hardware floor_12
+    21300026: hardware floor_13
+    21300028: hardware floor_14
+    21300030: hardware floor_15
+    21300032: hardware floor_16
+    21300034: hardware floor_17
+    21300036: hardware floor_18
+    21300038: hardware floor_19
+    21300040: hardware floor_20
+    21300042: hardware floor_21
+    21300044: hardware floor_22
+    21300046: hardware floor_23
+    21300048: hardware floor_24
+    21300050: hardware floor_25
+    21300052: hardware floor_26
+    21300054: hardware floor_27
+    21300056: hardware floor_28
+    21300058: hardware floor_29
+    21300060: hardware floor_30
+    21300062: hardware floor_31
+    21300064: hardware floor_32
+    21300066: hardware floor_33
+    21300068: hardware floor_34
+    21300070: hardware floor_35
+    21300072: hardware floor_36
+    21300074: hardware floor_37
+    21300076: hardware floor_38
+    21300078: hardware floor_39
+    21300080: hardware floor_40
+    21300082: hardware floor_41
+    21300084: hardware floor_42
+    21300086: hardware floor_43
+    21300088: hardware floor_44
+    21300090: hardware floor_45
+    21300092: hardware floor_46
+    21300094: hardware floor_47
+    21300096: hardware floor_48
+    21300098: hardware floor_49
+    21300100: hardware floor_50
+    21300102: hardware floor_51
+    21300104: hardware floor_52
+    21300106: hardware floor_53
+    21300108: hardware floor_54
+    21300110: hardware floor_55
+    21300112: hardware floor_56
+    21300114: hardware floor_57
+    21300116: hardware floor_58
+    21300118: hardware floor_59
+    21300120: hardware floor_60
+    21300122: hardware floor_61
+    21300124: hardware floor_62
+    21300126: hardware floor_63
+    21300128: hardware floor_64
+    21300130: hardware floor_65
+    21300132: hardware floor_66
+    21300134: hardware floor_67
+    21300136: hardware floor_68
+    21300138: hardware floor_69
+    21300140: hardware floor_70
+    21300142: hardware floor_71
+    21300144: hardware floor_72
+    21300146: hardware floor_73
+    21300148: hardware floor_74
+    21300150: hardware floor_75
+    21300152: hardware floor_76
+    21300154: hardware floor_77
+    21300156: hardware floor_78
+    21300158: hardware floor_79
+    21300160: hardware floor_80
+    21300162: hardware floor_81
+    21300164: hardware floor_82
+    21300166: hardware floor_83
+    21300168: hardware floor_84
+    21300170: hardware floor_85
+    21300172: hardware floor_86
+    21300174: hardware floor_87
+    21300176: hardware floor_88
+    21300178: hardware floor_89
+    21300180: hardware floor_90
+    21300182: hardware floor_91
+    21300184: hardware floor_92
+    21300186: hardware floor_93
+    21300188: hardware floor_94
+    21300190: hardware floor_95
+    21300192: hardware floor_96
+    21300194: hardware floor_97
+    21300196: hardware floor_98
+    21300198: hardware floor_99
+    21300200: hardware floor_100
+    21300202: hardware floor_101
+    21300204: hardware floor_102
+    21300206: hardware floor_103
+    21300208: hardware floor_104
+    21300210: hardware floor_105
+    21300212: hardware floor_106
+    21300214: hardware floor_107
+    21300216: hardware floor_108
+    21300218: hardware floor_109
+    21300220: hardware floor_110
+    21300222: hardware floor_111
+    21300224: hardware floor_112
+    21300226: hardware floor_113
+    21300228: hardware floor_114
+    21300230: hardware floor_115
+    21300232: hardware floor_116
+    21300234: hardware floor_117
+    21300236: hardware floor_118
+    21300238: hardware floor_119
+    21300240: hardware floor_120
+    21300242: hardware floor_121
+    21300244: hardware floor_122
+    21300246: hardware floor_123
+    21300248: hardware floor_124
+    21300250: hardware floor_125
+    21300252: hardware floor_126
+    21300254: hardware floor_127
+    21300256: hardware floor_128
+    21300258: hardware floor_129
+    21300260: hardware floor_130
+    21300262: hardware floor_131
+    21300264: hardware floor_132
+    21300266: hardware floor_133
+    21300268: hardware floor_134
+    21300270: hardware floor_135
+    21300272: hardware floor_136
+    21300274: hardware floor_137
+    21300276: hardware floor_138
+    21300278: hardware floor_139
+    21300280: hardware floor_140
+    21300282: hardware floor_141
+    21300284: hardware floor_142
+    21300286: hardware floor_143
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 93
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hardware floor_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 372
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de27a4cc409ef5458a32ff83804ee12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hardware floor_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 372
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa014bf72c35b064a998146b4f3ff30f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hardware floor_2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 372
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dabc495c1213ef45bcbb86cc582da4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hardware floor_3
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 372
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad586d65c2816b4ea655d2c35f699b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hardware floor_4
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 372
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1643e57352deb0241a0c457a52ead04b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hardware floor_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 279
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d6df79f11fcad4b92bed98e936c3f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hardware floor_6
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 279
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66fbda2c198e444e851c852fdff38aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hardware floor_7
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 279
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eafb023ee7b11043b8d45102f5808c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hardware floor_8
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 279
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcbae6c41b5fea4d88b5673ba75833c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hardware floor_9
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 279
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85800d2a1847344f8af0abd9eed5d1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hardware floor_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 186
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309c2b7ac4e3d5f4dbd5cfa6d21b463b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hardware floor_11
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 186
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be282176ba17004db28297ff1f8ea91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hardware floor_12
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 186
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273bff116f5367e4c96f8aad5cc50fb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hardware floor_13
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 186
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43322cf8cfe95d4498904770d31ae892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hardware floor_14
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 186
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4500ebbfe40b2f645bba3fe72da265d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hardware floor_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 93
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403f1a9d59d729744834572708f3293f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hardware floor_16
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 93
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb09e2358f8f6649a681c7b7e8becca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hardware floor_17
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 93
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355de4c67c2a976488349a5a755f6671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hardware floor_18
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 93
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e9aa0ca7b32e247b422c165563d473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hardware floor_19
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 93
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418bd7082aac241448518c87324d4005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hardware floor_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a940d73bd41052646b58a8535f38ac76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hardware floor_21
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1205c6d4e1b424442a9d285f18602382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hardware floor_22
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 0
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd62e9b48a195e04586114b7031ad368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hardware floor_23
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb17c2207814f249b8d50f08f66df10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hardware floor_24
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 0
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b83759903410bf46be073680ab7dd1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 08701c55d37073943a7733b978950fa3
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
